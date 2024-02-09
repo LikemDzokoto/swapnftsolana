@@ -1,5 +1,5 @@
 [package]
-name = "hello_world"
+name = "nftswap"
 version = "0.1.0"
 edition = "2021"
 
@@ -10,5 +10,5 @@ solana-program = "1.18.1"
 
 
 [lib]
-name = "hello_world"
-crate-type = ["cdylib", "lib"]
+name = "nftswap"
+crate-type = ["cdylib", "lib"]                                                                                                                                                                                                                                                                                                                                                  
