@@ -6,7 +6,9 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+# solana-nft-programs-token-manager = "1.0.0"
 solana-program = "1.18.1"
+spl-token = "4.0.1"
 
 
 [lib]
